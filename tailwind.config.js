@@ -9,7 +9,15 @@ const config = {
 
   darkMode: 'class',
   
-  theme: {}
+  theme: {
+    extend: {
+      colors: {
+        'red': {
+          500: '#EB0029',
+        },
+      }
+    }
+  }
 };
 
 module.exports = config;

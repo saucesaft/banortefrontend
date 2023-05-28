@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-open {
+  background:url("http://imgur.com/SZ8Cm.jpg");
+}
+
+.hover\:bg-closed:hover {
+  background:url("/maya2.png");
+}
