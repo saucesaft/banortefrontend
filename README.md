@@ -2,6 +2,8 @@
 
 **hackathon banorte 2023 - amishackers**
 
+![foto del frontend](screenshot.png)
+
 **tecnologias:**
 - [svelte](https://svelte.dev/)
 - [three.js](https://threejs.org/)
